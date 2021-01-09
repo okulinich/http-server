@@ -1,0 +1,124 @@
+\>	[DEBUG]
+31-Jul-2020 11:48:05
+!>
+Got new connection!
+from host : service = localhost : 53.50.49.55
+!>
+\>	[DEBUG]
+31-Jul-2020 11:48:06
+Child exited with status 0
+
+\>	[DEBUG]
+31-Jul-2020 11:48:06
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:48:56
+!>
+Got new connection!
+from host : service = localhost : 53.50.49.56
+!>
+\>	[DEBUG]
+31-Jul-2020 11:48:56
+Child exited with status 0
+
+\>	[DEBUG]
+31-Jul-2020 11:48:56
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:49:23
+!>
+Got new connection!
+from host : service = localhost : 53.50.49.56
+!>
+\>	[DEBUG]
+31-Jul-2020 11:49:23
+Child exited with status 0
+
+\>	[DEBUG]
+31-Jul-2020 11:49:23
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:49:24
+!>
+Got new connection!
+from host : service = localhost : 53.50.49.57
+!>
+\>	[DEBUG]
+31-Jul-2020 11:49:24
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:49:25
+!>
+Got new connection!
+from host : service = localhost : 53.50.50.48
+!>
+\>	[DEBUG]
+31-Jul-2020 11:49:25
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:49:25
+!>
+Got new connection!
+from host : service = localhost : 53.50.49.57
+!>
+\>	[DEBUG]
+31-Jul-2020 11:49:25
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:49:59
+!>
+Got new connection!
+from host : service = localhost : 53.50.50.48
+!>
+\>	[DEBUG]
+31-Jul-2020 11:49:59
+Child exited with status 0
+
+\>	[DEBUG]
+31-Jul-2020 11:49:59
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:50:00
+!>
+Got new connection!
+from host : service = localhost : 53.50.50.49
+!>
+\>	[DEBUG]
+31-Jul-2020 11:50:00
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:50:00
+!>
+Got new connection!
+from host : service = localhost : 53.50.50.49
+!>
+\>	[DEBUG]
+31-Jul-2020 11:50:00
+<Server closed the connection>
+
+\>	[DEBUG]
+31-Jul-2020 11:50:01
+!>
+Got new connection!
+from host : service = localhost : 53.50.50.49
+!>
+\>	[DEBUG]
+31-Jul-2020 11:50:01
+<Server closed the connection>
+
+\>	[ERROR]
+31-Jul-2020 11:50:35
+accept: Interrupted system call
+
+\>	[DEBUG]
+31-Jul-2020 11:50:35
+
+		* SERVER INTERRUPTED BY SIGINT *

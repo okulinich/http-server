@@ -1,0 +1,15 @@
+
+
+#Version: 0.9
+#Date: 31-Jul-2020 11:47:25
+#Fields: time c-ip cs-method uri sc-status sc-bytes
+11:48:06 53.50.49.55 GET - 200 588
+11:48:56 53.50.49.56 GET - 200 613
+11:49:23 53.50.49.56 GET - 200 613
+11:49:24 53.50.49.57 GET styles.css 200 908
+11:49:25 53.50.50.48 GET favicon.ico 404 234
+11:49:25 53.50.49.57 GET image_house.jpg 200 1059642
+11:49:59 53.50.50.48 GET - 200 613
+11:50:00 53.50.50.49 GET styles.css 200 908
+11:50:00 53.50.50.49 GET image_house.jpg 200 1059642
+11:50:01 53.50.50.49 GET favicon.ico 404 234

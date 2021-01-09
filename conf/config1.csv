@@ -1,0 +1,9 @@
+port, 3819
+root, resources/
+doc, index.html
+ipv, 0
+log, ERROR
+interface, 0
+backlog, 15
+timeout, 5
+maxReq, 100

@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    background-image: url(image_house.jpg);
+}
+
+div {
+    background: linear-gradient(to bottom, rgba(114, 116, 219, 0.5), rgba(49, 4, 133, 0.2));
+    text-align: center;
+    background-attachment: scroll;
+}
+
+h1 {
+    color: rgb(32, 7, 100);
+    padding-top: 100px;
+    padding-bottom: 0px;
+    font-family: serif;
+    font-size: 32;
+    text-align: center;
+    line-height: 20px;
+    transition: all 4s ease-in-out;
+}
+
+h2 {
+    color: rgb(32, 7, 100);
+    padding-top: 0px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(47, 4, 68);
+    transition: all 4s ease-in-out;
+}
+
+.area {
+    margin-bottom: 10px;
+    width: 200px;
+    transition: all 4s ease-in-out;
+}
+
+#send_button {
+    width: 100px;
+    height: 20px;
+    background-color: rgb(236, 216, 245);
+    font-weight: 500;
+    transition: all 4s ease-in-out;
+}
